@@ -1,5 +1,5 @@
 # FollowtheSphere
-##Brainiacs Group Members
+## Brainiacs Group Members
 ### 103448 - Karuru Austin Mwangi
 ### 120839 - Gichomo Maria Wairimu
 ### 120595 - Mbugua James Njoroge
